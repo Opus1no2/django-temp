@@ -16,3 +16,7 @@ Seed Database:
 
 Finally - display query output:
 `python manage.py show_query`
+
+Your output should look something like:
+
+![image](https://user-images.githubusercontent.com/411454/232252309-a825adc8-a3af-4ce7-985b-9d8049063ac0.png)
